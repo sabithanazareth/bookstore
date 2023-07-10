@@ -1,0 +1,68 @@
+
+p{
+    font-family: 'Helvetica';
+    position: absolute;
+    top: 11%;
+    left: 40%;
+    font-size: 24pt;
+}
+#prod{
+  border-radius: 20%;
+  position: absolute;
+    top: 70%;
+    left: 10%;
+}
+
+#l1{
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    color: black;
+}
+#l2{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    color: black;
+    font-family: Times New Roman;
+    font-size: 16pt;
+}
+#pr1{
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    color: black;
+}
+#pr2{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    color: black;
+    font-family: Times New Roman;
+    font-size: 16pt;
+}
+.button{
+    position: absolute;
+    top: 15%;
+    left: 81%;
+    background: rgb(139,69,19);
+    color:white;
+    font-family: Times New Roman;
+    font-size: 16pt;
+    padding: 10px 22px;
+    border-radius: 10px;
+}
+.button:hover{
+    background: #64F5A5;
+}
+
+.button1{
+    position: absolute;
+    top: 66%;
+    left: 45%;
+    background: rgb(139,69,19);
+    font-family: Times New Roman;
+    font-size: 16pt;
+    padding: 10px 22px;
+    border-radius: 10px;
+}
